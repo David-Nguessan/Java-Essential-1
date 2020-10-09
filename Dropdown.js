@@ -2,7 +2,7 @@ let eno = document.getElementsByName('cssProperty');
 
 let div = document.getElementById('change');
 
-function change()
+function set()
 {
     
     for( let i = 0; i < eno.length; i++ )
