@@ -1,6 +1,6 @@
 let eno = document.getElementsByName('cssProperty');
 
-let div = document.getElementById('modify');
+let div = document.getElementById('change');
 
 function change()
 {
