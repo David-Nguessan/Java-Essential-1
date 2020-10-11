@@ -15,5 +15,5 @@ function set()
     }
 }
 
-document.getElementById('change').addEventListener('click',change);
+document.getElementById('change').addEventListener('click',set);
     
